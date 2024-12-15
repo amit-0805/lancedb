@@ -1,0 +1,9 @@
+input
+output
+
+.vscode
+.DS_Store
+assets
+myntra
+
+__pycache__
